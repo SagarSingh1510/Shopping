@@ -8,7 +8,6 @@
 ## Basic Overview - 
 <p align="left">
 
-  <img src="./work-in-the-netherlands.png" width="380" height="90">
 </p>
 
 
@@ -54,7 +53,7 @@ npm run test
 <br/>
 <br/>
 
-<p align="center"><img src="http://www.jeffersonribeiro.com/assets/img/apple-icon-180x180.png" width="35" height="35"/></p>
+
 <p align="center">
 <sub>A little project by <a href="http://github.com/SagarSingh1510/">Sagar Singh</a></sub>
 </p>
